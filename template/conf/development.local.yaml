@@ -1,0 +1,2 @@
+LOG_CONSOLE_LEVEL: trace
+MONGODB_URL: mongodb://localhost:27017/{{ name }}
